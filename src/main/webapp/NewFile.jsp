@@ -11,7 +11,7 @@
 	<ul>
 		<li>저장소</li>
 		<li>버젼 1</li>
-		ul 추가
+		<li>ul 추가</li>
 	</ul>
 </body>
 </html>
