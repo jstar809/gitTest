@@ -21,9 +21,9 @@
 >>>>>>> 테스트
 	</ul>
 	<ol>
-		<li>1</li>
-		<li>2</li>
-		<li>3</li>
+		<li>11</li>
+		<li>21</li>
+		<li>31</li>
 	</ol>
 </body>
 </html>
