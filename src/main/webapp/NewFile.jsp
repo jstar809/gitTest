@@ -11,19 +11,16 @@
 	<ul>
 		<li>저장소</li>
 		<li>버젼 1</li>
-<<<<<<< HEAD
 		<li>ul 추가</li>
-=======
 	
 	</ul>
 	<ul>
 		<li>테스트</li>
->>>>>>> 테스트
 	</ul>
 	<ol>
 		<li>마스터 커밋</li>
-		<li>21</li>
 		<li>31</li>
+		<li>테스트 커밋2 </li>
 	</ol>
 </body>
 </html>
